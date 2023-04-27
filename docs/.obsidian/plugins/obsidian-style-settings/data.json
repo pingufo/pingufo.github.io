@@ -1,0 +1,11 @@
+{
+  "blue-topaz-theme@@transparent-setting-panel": false,
+  "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-in-the-sky",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
+  "blue-topaz-theme@@background-settings-workplace-background-image": true,
+  "blue-topaz-theme@@background-image-settings-switch": false,
+  "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-kawaii",
+  "blue-topaz-theme@@folder-icons": false,
+  "blue-topaz-theme@@folder-style-change-options-colorful": "folder-style-change-options-colorful-default",
+  "blue-topaz-theme@@background-settings-workplace-theme-light-custom": "url(\"app://local/C:/Users/AR/Desktop/images/Albedo2.jpg\")"
+}

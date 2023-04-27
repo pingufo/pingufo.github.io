@@ -1,0 +1,23 @@
+{
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "spellcheckLanguages": [
+    "en-US"
+  ],
+  "autoPairMarkdown": false,
+  "attachmentFolderPath": "00 assets",
+  "alwaysUpdateLinks": true,
+  "tabSize": 4,
+  "livePreview": false,
+  "useTab": false,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "readableLineLength": true,
+  "defaultViewMode": "source",
+  "showUnsupportedFiles": true,
+  "showFrontmatter": false,
+  "vimMode": false,
+  "newFileLocation": "root",
+  "promptDelete": false
+}
