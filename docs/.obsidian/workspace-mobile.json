@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "c6239bbbfa825c6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa94f593539fb3ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70591cc4f1a8da93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hello World.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf4391596a6ff947",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7dec2a73f19a095e",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0b813c91498834bb",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2fed6857987486f1",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2a21ed3104877b17",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e0bafc44df552b8e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5808403cc2ba9c13",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Hello World.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b005042c3a760b4c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Hello World.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "3acd322ef82c15d1",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Hello World.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "70591cc4f1a8da93",
+  "lastOpenFiles": [
+    "文章列表/文章1.md",
+    "Hello World.md"
+  ]
+}
